@@ -1,0 +1,14 @@
+# Java
+*.class
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
